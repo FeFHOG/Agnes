@@ -1,0 +1,12 @@
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Local generation scratch space and private reference originals
+pet-atelier-atsuko/
+references/private/
+
+# Codex-local installation directory, if ever copied into this repository
+.codex/
